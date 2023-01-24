@@ -2,7 +2,7 @@
 import { reactive, ref, computed } from 'vue';
 import ErrorPage from './components/ErrorPage.vue'
 
-const apiURL = 'http://127.0.0.1:8000/'
+const apiURL = 'https://linktravel.onrender.com/'
 const fetchedResources = ref([])
 const links = ref([])
 
