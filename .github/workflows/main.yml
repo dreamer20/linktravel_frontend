@@ -26,4 +26,4 @@ jobs:
       - run: git status
       - run: git add .
       - run: git commit -m "Update application" || echo "Nothing to commit"
-      - run: git push origin dist
+      - run: git push origin build
