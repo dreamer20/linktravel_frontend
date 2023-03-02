@@ -1,35 +1,7 @@
 # linktravel_frontend
 
-This template should help get you started developing with Vue 3 in Vite.
+Linktravel frontend (see also [linktravel_backend](https://github.com/dreamer20/linktravel_backend)).
 
-## Recommended IDE Setup
+Created with [Vue](https://vuejs.org/) and [Bootstrap](https://getbootstrap.com/docs/3.3/).
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
-```
+Live example on [GitHub Pages](https://dreamer20.github.io/linktravel_frontend/) (due to Render plan restriction first load may take a while).
